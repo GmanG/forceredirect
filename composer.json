@@ -2,7 +2,7 @@
   "name": "maxmage/forceredirect",
   "description": "Magento 2 module to force redirect to the Login Page",
   "require": {
-    "magento/magento-composer-installer": "*"
+    "magento/magento-composer-installer": "*",
     "magento/project-community-edition": "*"
   },
   "type": "magento2-module",
